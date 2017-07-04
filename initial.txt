@@ -1,1 +1,2 @@
 Hello
+This line was added to implement new feature
