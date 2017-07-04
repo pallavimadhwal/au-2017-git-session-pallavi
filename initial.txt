@@ -1,2 +1,3 @@
 Hello
 This line was added to implement new feature
+This line was added to implement new feature in another branch
